@@ -1,0 +1,11 @@
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\bin\Debug\calculadoraC#.exe.config
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\bin\Debug\calculadoraC#.exe
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\bin\Debug\calculadoraC#.pdb
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC#.csproj.AssemblyReference.cache
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC_.Form1.resources
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC_.Properties.Resources.resources
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC#.csproj.GenerateResource.cache
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC#.exe
+C:\Users\rherr\source\repos\calculadoraC#\calculadoraC#\obj\Debug\calculadoraC#.pdb
